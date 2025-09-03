@@ -27,7 +27,7 @@ Here are the main features currently available in **NoteIt**:
 
 - 📝 **Create Notes**: Add notes with a title, description.
 - ✏️ **Edit Notes**: Update existing notes easily with just a few taps.
-- ❌ **Delete Notes**: Remove notes once they are no longer needed.
+- 🗑 **Delete Notes**: Remove notes once they are no longer needed.
 - 🔐 **Authentication**: Register and log in using email and password (via Firebase).
 - 💾 **Local Storage**: Save notes offline using Firestore.
 - 📱 **Cross-Platform Support**: Works seamlessly on Android, iOS, and Web.
@@ -70,6 +70,5 @@ Here are the main features currently available in **NoteIt**:
 You can download and try **NoteIt** from the following links:
 
 - 📱 **Android APK (Latest Release)**: [Download Now](https://github.com/MohamedSecFlutter/NoteIt/releases)
- ⚠️ iOS builds require running the project locally with Xcode due to App Store restrictions.
 
 ---
