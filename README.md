@@ -64,11 +64,3 @@ Here are the main features currently available in **NoteIt**:
 </p>
 
 ---
-
-## Download ⬇️
-
-You can download and try **NoteIt** from the following links:
-
-- 📱 **Android APK (Latest Release)**: [Download Now](https://github.com/MohamedSecFlutter/NoteIt/releases)
-
----
